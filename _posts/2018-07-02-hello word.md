@@ -17,6 +17,7 @@ tags:									# 标签
 # 如何发布新文章
 ### 一、新建.md文件
 在AlexMOOM/AlexMOOM.github.io目录中找到_post文件夹，在_post文件夹内新建“*.md”文件
+# 保存后，等待一段后台更新即可发表文章。
 ### 二、md文件命名格式：
 要用“yyyy-mm-dd-name.md”命名md文件（name中“空格”和“-”等效），例如下列格式等价：
 <li>1. 2018-07-02-hello-word.md</li>
